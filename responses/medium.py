@@ -1,2 +1,2 @@
 def get_response():
-    return "Pick one manageable task and get started."
+    return "Pick one medium task or two small tasks to work on and get started!"
