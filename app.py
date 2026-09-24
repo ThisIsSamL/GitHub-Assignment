@@ -17,11 +17,6 @@ def main():
         print(high_response())
     else:
         print("I don't recognize that option yet.")
-    # match input(f'\n{get_welcome()}\nHow is your energy today? low / medium / high: ').strip().lower():
-    #     case("low"): print(low_response)
-    #     case("medium"): print(medium_response())
-    #     case("high"): print(high_response())
-    #     case _: print("I don't recognize that option yet")
 
 
 if __name__ == "__main__":
